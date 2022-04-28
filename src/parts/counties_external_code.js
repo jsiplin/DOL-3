@@ -23,8 +23,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     //
     // Filter Data
     //
-    let fullYears = ['2015', '2016', '2017', '2018', '2019']
-    let fullQuarters =  ["2015Q1", "2015Q2", "2015Q3", "2015Q4", "2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2"]
+    let fullYears = ['2015', '2016', '2017', '2018', '2019', '2020']
+    let fullQuarters =  ["2015Q1", "2015Q2", "2015Q3", "2015Q4", "2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2","2020Q3","2020Q4"]
     
     // Tab - Pop & MHHI
     let mhhi = dimple.filterData(data, "Indicator", "Median Household Income")
@@ -171,6 +171,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [ppop_chart, mhhi_chart_print],
         'svgName': '#pop_chart',
         'data': {
+            data20: [pop, mhhi],
             data19: [pop, mhhi],
             data18: [pop, mhhi],
             data17: [pop, mhhi],
@@ -187,6 +188,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [pempl_edu_chart, pempl_edu_gend_chart],
         'svgName': '#empl_edu_gend_chart',
         'data': {
+            data20: [EduAttainment2020, unempByGender2020],
             data19: [EduAttainment2019, unempByGender2019],
             data18: [EduAttainment2018, unempByGender2018],
             data17: [EduAttainment2017, unempByGender2017],
@@ -203,6 +205,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [pempl_race_ethn_chart, pchart5],
         'svgName': '#empl_race_ethn_chart',
         'data': {
+            data20: [raceData2020, ethData2020],
             data19: [raceData2019, ethData2019],
             data18: [raceData2018, ethData2018],
             data17: [raceData2017, ethData2017],
@@ -219,6 +222,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [empl_vet_print_chart],
         'svgName': '#empl_vet_chart',
         'data': {
+            data20: [vetData2020],
             data19: [vetData2019],
             data18: [vetData2018],
             data17: [vetData2017],
@@ -235,6 +239,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [emp_dis_chart_print, pempl_status_chart],
         'svgName': '#disabl_pov_chart',
         'data': {
+            data20: [disAttainment2020, povRate2020],
             data19: [disAttainment2019, povRate2019],
             data18: [disAttainment2018, povRate2018],
             data17: [disAttainment2017, povRate2017],
@@ -251,6 +256,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [ptanf_attainment_chart, ptanf_perc_chart, ptanf_rate_chart, ptanf_data],
         'svgName': '#tanf_chart',
         'data': {
+			data20: [tanfAttainment2020, tanfPerc2020, tanfRate2020, tanfData2020],
             data19: [tanfAttainment2019, tanfPerc2019, tanfRate2019, tanfData2019],
             data18: [tanfAttainment2018, tanfPerc2018, tanfRate2018, tanfData2018],
             data17: [tanfAttainment2017, tanfPerc2017, tanfRate2017, tanfData2017],
