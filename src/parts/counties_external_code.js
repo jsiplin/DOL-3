@@ -585,14 +585,14 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
           <th>2020</th>
           </tr>
         <tr>
-          <th>Snap Recipient Workers</th> <th></th>
+          <th>SNAP Recipient Workers</th> <th></th>
           <td>${cma(find(snap_Data1, 2))}</td>
           <td>${cma(find(snap_Data1, 3))}</td>
           <td>${cma(find(snap_Data1, 4))}</td>
           <td>${cma(find(snap_Data1, 5))}</td>
         </tr>
         <tr class="FootRow">
-          <th>Snap Recipient Workers by Percentage</th> <th></th>
+          <th>SNAP Recipient Workers by Percentage</th> <th></th>
           <td>${pcnt(find(snap_Data2, 2))}</td>
           <td>${pcnt(find(snap_Data2, 3))}</td>
           <td>${pcnt(find(snap_Data2, 4))}</td>

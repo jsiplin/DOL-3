@@ -1235,13 +1235,13 @@ import * as dimple from 'dimple';
               <th>2018</th>
               </tr>
             <tr>
-              <th>Snap Recipient Workers</th> <th></th>
+              <th>SNAP Recipient Workers</th> <th></th>
               <td>${cma(find(snap_Data1, 0))}</td>
               <td>${cma(find(snap_Data1, 1))}</td>
               <td>${cma(find(snap_Data1, 2))}</td>
             </tr>
             <tr>
-              <th>Snap Recipient Workers by Percentage</th> <th></th>
+              <th>SNAP Recipient Workers by Percentage</th> <th></th>
               <td>${pcnt(find(snap_Data2, 0))}</td>
               <td>${pcnt(find(snap_Data2, 1))}</td>
               <td>${pcnt(find(snap_Data2, 2))}</td>
