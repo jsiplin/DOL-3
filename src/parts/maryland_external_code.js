@@ -244,21 +244,20 @@ import * as dimple from 'dimple';
     // Long Term Unemployed
     // 
     // Filter Data
-    let years = dimple.filterData(data, "Time", ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"]);
+    let years = dimple.filterData(data, "Time", ["2015", "2016", "2017", "2018", "2019", "2020", "2021"]);
     window.longTermLocation = dimple.filterData(years, "Indicator", "Long Term Unemployed");
 
     // Create Table
     document.getElementById('table20').innerHTML = `
 	<tr class="HeadRow" style="background-color: white;">
 	  <th> Long-Term Unemployed </th>
-	  <th>2013</th>
-	  <th>2014</th>
     <th>2015</th>
     <th>2016</th>
     <th>2017</th>
     <th>2018</th>
     <th>2019</th>
     <th>2020</th>
+    <th>2021</th>
 	</tr>
 	<tr class="FootRow">
 	  <th>Maryland</th>
@@ -269,8 +268,7 @@ import * as dimple from 'dimple';
     <td> ${longTermLocation[4]['Amount']}</td>
     <td> ${longTermLocation[5]['Amount']}</td>
     <td> ${longTermLocation[6]['Amount']}</td>
-    <td> ${longTermLocation[7]['Amount']}</td>
-	</tr>
+ 	</tr>
 	`
     // Retrieve Elements
     var svg1 = dimple.newSvg("#Chart20", "100%", 400);

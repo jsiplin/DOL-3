@@ -99,7 +99,7 @@ export let mdLongTermUnemployment = `
       <table id="table20"></table>
       <div class="Footer">
         <div id="Long_Term_Uneployment_Footer">
-          <p>Source: Current Population Survey, Latest Data Available is 2020</p>
+          <p>Source: Current Population Survey, Latest Data Available is 2021</p>
         </div>
       </div>
     </div>
