@@ -22,7 +22,7 @@ import * as dimple from 'dimple';
     // 
     // Filter Data
 
-    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY15", "FY16", "FY17", "FY18", "FY19", "FY20"]);
+    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY16", "FY17", "FY18", "FY19", "FY20", "FY21"]);
 
     // Create Table
     document.getElementById('table11').innerHTML = `
@@ -31,27 +31,27 @@ import * as dimple from 'dimple';
 	  <td></td>
 	</tr>
 	<tr>
-	  <th>2015</th>
+	  <th>2016</th>
 	  <td>${mAppData[0]['Amount']}</td>
 	</tr>
 	<tr>
-	  <th>2016</th>
+	  <th>2017</th>
 	  <td>${mAppData[1]['Amount']}</td>
 	</tr>
 	<tr>
-	  <th>2017</th>
+	  <th>2018</th>
 	  <td>${mAppData[2]['Amount']}</td>
   </tr>
   <tr>
-    <th>2018</th>
+    <th>2019</th>
     <td>${mAppData[3]['Amount']}</td>
   </tr>
   <tr>
-    <th>2019</th>
+    <th>2020</th>
     <td>${mAppData[4]['Amount']}</td>
   </tr>
   <tr class="FootRow">
-    <th>2020</th>
+    <th>2021</th>
     <td>${mAppData[5]['Amount']}</td>
   </tr>
 	`
@@ -65,7 +65,7 @@ import * as dimple from 'dimple';
     chart15.setBounds(350, 30, 600, 300)
     var mAppx = chart15.addCategoryAxis("x", "Time")
     mAppx.title = " ";
-    mAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18", "FY19"]);
+    mAppx.addOrderRule(["FY16", "FY17", "FY18", "FY19", "FY20"]);
     var mAppY = chart15.addMeasureAxis("y", "Amount");
     mAppY.title = "Totals";
     mAppY.tickFormat = ',.0f';
@@ -74,7 +74,7 @@ import * as dimple from 'dimple';
     pchart15.setBounds("11%", "21%", "80%", 250)
     var pmAppx = pchart15.addCategoryAxis("x", "Time")
     pmAppx.title = " ";
-    pmAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18", "FY19"]);
+    pmAppx.addOrderRule(["FY16", "FY17", "FY18", "FY19", ]);
     var pmAppY = pchart15.addMeasureAxis("y", "Amount");
     pmAppY.title = "Totals";
     pmAppY.tickFormat = ',.0f';
@@ -121,9 +121,12 @@ import * as dimple from 'dimple';
       <td>2019</td>
       <td> ${aprog3[3]['Amount']}</td>
     </tr>
-    <tr class="FootRow">
+    <tr>
       <td>2020</td>
       <td> ${aprog3[4]['Amount']}</td>
+    <tr class="FootRow">
+      <td>2021</td>
+      <td> ${aprog3[5]['Amount']}</td>
   </tr>
 	</tbody>
 	`
@@ -166,6 +169,7 @@ import * as dimple from 'dimple';
     window.aNew4 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2018");
     window.aNew5 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2019");
     window.aNew6 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2020");
+    window.aNew7 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2021");
 
     // Create Table
     //console.log(aNew1);
@@ -203,10 +207,14 @@ import * as dimple from 'dimple';
 	    <td> ${aNew5[0]['Amount']}</td>
 	    <td> ${aNew5[1]['Amount']}</td>
     </tr>
-    <tr class="FootRow">
+    <tr>
       <td>2020</td>
       <td> ${aNew6[0]['Amount']}</td>
       <td> ${aNew6[1]['Amount']}</td>
+    <tr class="FootRow">
+      <td>2021</td>
+      <td> ${aNew7[0]['Amount']}</td>
+      <td> ${aNew7[1]['Amount']}</td>
   </tr>
 	</tbody>
 	`
