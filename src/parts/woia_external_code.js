@@ -214,6 +214,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
                ${!workData2020Q3[1] ? '' : displayAvgQuarterTab1('2020Q3', workData2020Q3, workDatg2020Q3, averageData2020Q3, averageDatg2020Q3)}
                ${!workData2020Q4[1] ? '' : displayAvgQuarterTab1('2020Q4', workData2020Q4, workDatg2020Q4, averageData2020Q4, averageDatg2020Q4)}
                ${!workData2021Q1[1] ? '' : displayAvgQuarterTab1('2021Q1', workData2021Q1, workDatg2021Q1, averageData2021Q1, averageDatg2021Q1)}
+               ${!workData2021Q2[1] ? '' : displayAvgQuarterTab1('2021Q2', workData2021Q2, workDatg2021Q2, averageData2021Q2, averageDatg2021Q2)}
   `
     // Tab 2  
     let displayAvgQuarterTab2 = (quarter,jobChangeCount,jobChangeGender,newHireCount,newHireGender)=>{
@@ -274,6 +275,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!newHireDatc2020Q3[0] ? '' : displayAvgQuarterTab2('2020Q3', jobDatc2020Q3, jobDatg2020Q3, newHireDatc2020Q3, newHireDatg2020Q3)}
      ${!newHireDatc2020Q4[0] ? '' : displayAvgQuarterTab2('2020Q4', jobDatc2020Q4, jobDatg2020Q4, newHireDatc2020Q4, newHireDatg2020Q4)}
      ${!newHireDatc2021Q1[0] ? '' : displayAvgQuarterTab2('2021Q1', jobDatc2021Q1, jobDatg2021Q1, newHireDatc2021Q1, newHireDatg2021Q1)}
+     ${!newHireDatc2021Q2[0] ? '' : displayAvgQuarterTab2('2021Q2', jobDatc2021Q2, jobDatg2021Q2, newHireDatc2021Q2, newHireDatg2021Q2)}
     `
 
     // Tab 3 Turnover Rate
@@ -528,6 +530,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
          </tr>
       </thead>
       <tbody>
+        ${!iwdata2021Q2[0] ? '' : displayIndustryMetricsTable(iwdata2021Q2, hiredata2021Q2, avgdata2021Q2, netdata2021Q2, turndata2021Q2)}
         ${!iwdata2021Q1[0] ? '' : displayIndustryMetricsTable(iwdata2021Q1, hiredata2021Q1, avgdata2021Q1, netdata2021Q1, turndata2021Q1)}
         ${!iwdata2020Q4[0] ? '' : displayIndustryMetricsTable(iwdata2020Q4, hiredata2020Q4, avgdata2020Q4, netdata2020Q4, turndata2020Q4)}
         ${!iwdata2020Q3[0] ? '' : displayIndustryMetricsTable(iwdata2020Q3, hiredata2020Q3, avgdata2020Q3, netdata2020Q3, turndata2020Q3)}
@@ -1091,6 +1094,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
+            data21q2: [iwdata2021Q2, avgdata2021Q2, netdata2021Q2, turndata2021Q2, hiredata2021Q2],
             data21q1: [iwdata2021Q1, avgdata2021Q1, netdata2021Q1, turndata2021Q1, hiredata2021Q1],
             data20q4: [iwdata2020Q4, avgdata2020Q4, netdata2020Q4, turndata2020Q4, hiredata2020Q4],
             data20q3: [iwdata2020Q3, avgdata2020Q3, netdata2020Q3, turndata2020Q3, hiredata2020Q3],
