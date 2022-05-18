@@ -27,7 +27,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     // Set variables
     //
     let fullYears = ['2017', '2018', '2019','2020', '2021']
-    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1"]
+    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
     //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
     let eduGender = ["Less than High school", "High school or equivalent, no college", "Some college or Associate degree", 
@@ -1002,6 +1002,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pwChart, pavgChart],
         'svgName': '#Chart3',
         'data': {
+            data21q2: [workData2021Q2, workDatg2021Q2, averageData2021Q2, averageDatg2021Q2],
             data21q1: [workData2021Q1, workDatg2021Q1, averageData2021Q1, averageDatg2021Q1],
             data20q4: [workData2020Q4, workDatg2020Q4, averageData2020Q4, averageDatg2020Q4],
             data20q3: [workData2020Q3, workDatg2020Q3, averageData2020Q3, averageDatg2020Q3],
@@ -1031,6 +1032,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
+            data21q2: [newHireDatc2021Q2, newHireDatg2021Q2, jobDatc2021Q2, jobDatg2021Q2],
             data21q1: [newHireDatc2021Q1, newHireDatg2021Q1, jobDatc2021Q1, jobDatg2021Q1],
             data20q4: [newHireDatc2020Q4, newHireDatg2020Q4, jobDatc2020Q4, jobDatg2020Q4],
             data20q3: [newHireDatc2020Q3, newHireDatg2020Q3, jobDatc2020Q3, jobDatg2020Q3],
