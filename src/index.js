@@ -34,7 +34,7 @@ import 'chardin.ts/chardinjs.scss';
         './data/boundary_marylands_counties.json')
         document.querySelector("#body").innerHTML = `
         <div class="Title">
-			<p>Welcome to the Maryland Area Explorer! (Last Updated 2/24/22)</p>
+			<p>Welcome to the Maryland Area Explorer! (Last Updated 5/21/22)</p>
         </div>
         <div class="Body">
 			<p>The Maryland Area Explorer turns complex labor market information data into easy-to-understand charts and graphs. To get started, select a county from the dropdown menus or from the map below.</p>
@@ -208,7 +208,7 @@ import 'chardin.ts/chardinjs.scss';
 		  </div>
 		  <div class="County">
 			<p id="title1">${CountyName4}</p>
-			<p id="Landing">Please select a dashboard from the buttons to the right, or select a different geographic area from the dropdown menus. </p>
+			<p id="Landing">Please select a dashboard from the buttons to the left, or select a different geographic area from the dropdown menus. </p>
 		  </div>
 		  ${countyCode}
 		</div>

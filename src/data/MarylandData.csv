@@ -1,4 +1,6 @@
 Location,Time,Indicator,Indicator_Status,Indicator_Value,Employment_Status,QWI-Status,Amount,Unemployment_Rate
+All Data From Maryland
+
 Maryland,2015Q3,TANF Workers,,,,,5546,
 Maryland,2015Q4,TANF Workers,,,,,5875,
 Maryland,2016Q1,TANF Workers,,,,,4316,
@@ -15,6 +17,7 @@ Maryland,2018Q3,TANF Workers,,,,,3947,
 Maryland,2018Q4,TANF Workers,,,,,4106,
 Maryland,2019Q1,TANF Workers,,,,,2968,
 Maryland,2019Q2,TANF Workers,,,,,3397,
+
 Maryland,2016Q3,TANF Participants in Workforce Service ,,,,,391,
 Maryland,2016Q4,TANF Participants in Workforce Service ,,,,,224,
 Maryland,2017Q1,TANF Participants in Workforce Service ,,,,,265,
@@ -22,23 +25,31 @@ Maryland,2017Q2,TANF Participants in Workforce Service ,,,,,242,
 Maryland,2017Q3,TANF Participants in Workforce Service ,,,,,202,
 Maryland,2017Q4,TANF Participants in Workforce Service ,,,,,168,
 Maryland,2018Q1,TANF Participants in Workforce Service ,,,,,132,
-Maryland,2018Q2,TANF Participants in Workforce Service ,,,,,152,
+Maryland,2018Q2,TANF Participants in Workforce Service ,,,,,153,
 Maryland,2018Q3,TANF Participants in Workforce Service ,,,,,153,
 Maryland,2018Q4,TANF Participants in Workforce Service ,,,,,172,
-Maryland,2019Q1,TANF Participants in Workforce Service ,,,,,144,
-Maryland,2019Q2,TANF Participants in Workforce Service ,,,,,37,
-Maryland,2016Q3,Percent of Workforce Service participants in TANF (%),,,,,3.03054,0.0303054
-Maryland,2016Q4,Percent of Workforce Service participants in TANF (%),,,,,1.85231,0.0185231
-Maryland,2017Q1,Percent of Workforce Service participants in TANF (%),,,,,1.81856,0.0181856
-Maryland,2017Q2,Percent of Workforce Service participants in TANF (%),,,,,1.65436,0.0165436
-Maryland,2017Q3,Percent of Workforce Service participants in TANF (%),,,,,1.38765,0.0138765
-Maryland,2017Q4,Percent of Workforce Service participants in TANF (%),,,,,1.32628,0.0132628
-Maryland,2018Q1,Percent of Workforce Service participants in TANF (%),,,,,1.13188,0.0113188
-Maryland,2018Q2,Percent of Workforce Service participants in TANF (%),,,,,1.33662,0.0133662
-Maryland,2018Q4,Percent of Workforce Service participants in TANF (%),,,,,1.57121,0.0157121
-Maryland,2018Q3,Percent of Workforce Service participants in TANF (%),,,,,1.42804,0.0142804
-Maryland,2019Q1,Percent of Workforce Service participants in TANF (%),,,,,1.11654,0.0111654
-Maryland,2019Q2,Percent of Workforce Service participants in TANF (%),,,,,1.21311,0.0121311
+Maryland,2019Q1,TANF Participants in Workforce Service ,,,,,146,
+Maryland,2019Q2,TANF Participants in Workforce Service ,,,,,153,
+Maryland,2019Q3,TANF Participants in Workforce Service ,,,,,173,
+Maryland,2019Q4,TANF Participants in Workforce Service ,,,,,141,
+Maryland,2020Q1,TANF Participants in Workforce Service ,,,,,178,
+Maryland,2020Q2,TANF Participants in Workforce Service ,,,,,31,
+Maryland,2016Q3,Percent of Workforce Service participants in TANF (%) ,,,,,3.03054,0.0303054
+Maryland,2016Q4,Percent of Workforce Service participants in TANF (%) ,,,,,1.85231,0.0185231
+Maryland,2017Q1,Percent of Workforce Service participants in TANF (%) ,,,,,1.81856,0.0181856
+Maryland,2017Q2,Percent of Workforce Service participants in TANF (%) ,,,,,1.65436,0.0165436
+Maryland,2017Q3,Percent of Workforce Service participants in TANF (%) ,,,,,1.38765,0.0138765
+Maryland,2017Q4,Percent of Workforce Service participants in TANF (%) ,,,,,1.32628,0.0132628
+Maryland,2018Q1,Percent of Workforce Service participants in TANF (%) ,,,,,1.13169,0.0113169
+Maryland,2018Q2,Percent of Workforce Service participants in TANF (%) ,,,,,1.34470,0.0134470
+Maryland,2018Q3,Percent of Workforce Service participants in TANF (%) ,,,,,1.42671,0.0142671
+Maryland,2018Q4,Percent of Workforce Service participants in TANF (%) ,,,,,1.56449,0.0156449
+Maryland,2019Q1,Percent of Workforce Service participants in TANF (%) ,,,,,1.12672,0.0112672
+Maryland,2019Q2,Percent of Workforce Service participants in TANF (%) ,,,,,1.30390,0.0130390
+Maryland,2019Q3,Percent of Workforce Service participants in TANF (%) ,,,,,1.55940,0.0155940
+Maryland,2019Q4,Percent of Workforce Service participants in TANF (%) ,,,,,1.31126,0.0131126
+Maryland,2020Q1,Percent of Workforce Service participants in TANF (%) ,,,,,1.25724,0.0125724
+Maryland,2020Q2,Percent of Workforce Service participants in TANF (%) ,,,,,1.11231,0.0111231
 Maryland,2015Q3,Percent of Workers in TANF (%),,,,,0.226081193,0.002260812
 Maryland,2015Q4,Percent of Workers in TANF (%),,,,,0.236666606,0.002366666
 Maryland,2016Q1,Percent of Workers in TANF (%),,,,,0.178479197,0.001784792
