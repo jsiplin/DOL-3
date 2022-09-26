@@ -336,6 +336,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	   ${!turnOverData2020Q3[0] ? '' : displayAvgQuarterTab3('2020Q3', turnOverData2020Q3, turnOverDatg2020Q3)}
 	   ${!turnOverData2020Q4[0] ? '' : displayAvgQuarterTab3('2020Q4', turnOverData2020Q4, turnOverDatg2020Q4)}
 	   ${!turnOverData2021Q1[0] ? '' : displayAvgQuarterTab3('2021Q1', turnOverData2021Q1, turnOverDatg2021Q1)}
+     ${!turnOverData2021Q2[0] ? '' : displayAvgQuarterTab3('2021Q2', turnOverData2021Q2, turnOverDatg2021Q2)}
   `
     // Tab 4 Industry Metrics
     window.displayIndustryMetricsTable = (wdatax,hiredatax,avgdatax,netdatax,turndatax)=>{
@@ -1069,6 +1070,7 @@ console.log(asepdata2020Q2)
         'pcharts': [pturnChart],
         'svgName': '#ChartFive',
         'data': {
+            data21q2: [turnOverData2021Q2, turnOverDatg2021Q2],
             data21q1: [turnOverData2021Q1, turnOverDatg2021Q1],
             data20q4: [turnOverData2020Q4, turnOverDatg2020Q4],
             data20q3: [turnOverData2020Q3, turnOverDatg2020Q3],
