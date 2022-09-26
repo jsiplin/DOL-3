@@ -278,6 +278,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
      ${!newHireDatc2020Q4[0] ? '' : displayAvgQuarterTab2('2020Q4', jobDatc2020Q4, jobDatg2020Q4, newHireDatc2020Q4, newHireDatg2020Q4)}
      ${!newHireDatc2021Q1[0] ? '' : displayAvgQuarterTab2('2021Q1', jobDatc2021Q1, jobDatg2021Q1, newHireDatc2021Q1, newHireDatg2021Q1)}
      ${!newHireDatc2021Q2[0] ? '' : displayAvgQuarterTab2('2021Q2', jobDatc2021Q2, jobDatg2021Q2, newHireDatc2021Q2, newHireDatg2021Q2)}
+     ${!newHireDatc2021Q3[0] ? '' : displayAvgQuarterTab2('2021Q3', jobDatc2021Q3, jobDatg2021Q3, newHireDatc2021Q3, newHireDatg2021Q3)}
+
     `
 
     // Tab 3 Turnover Rate
