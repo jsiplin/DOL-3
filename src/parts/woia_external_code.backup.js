@@ -27,7 +27,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     // Set variables
     //
     let fullYears = ['2017', '2018', '2019','2020', '2021']
-    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3"]
+    let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
     //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
     let eduGender = ["Less than High school", "High school or equivalent, no college", "Some college or Associate degree", 
@@ -215,8 +215,6 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
                ${!workData2020Q4[1] ? '' : displayAvgQuarterTab1('2020Q4', workData2020Q4, workDatg2020Q4, averageData2020Q4, averageDatg2020Q4)}
                ${!workData2021Q1[1] ? '' : displayAvgQuarterTab1('2021Q1', workData2021Q1, workDatg2021Q1, averageData2021Q1, averageDatg2021Q1)}
                ${!workData2021Q2[1] ? '' : displayAvgQuarterTab1('2021Q2', workData2021Q2, workDatg2021Q2, averageData2021Q2, averageDatg2021Q2)}
-               ${!workData2021Q3[1] ? '' : displayAvgQuarterTab1('2021Q3', workData2021Q3, workDatg2021Q3, averageData2021Q3, averageDatg2021Q3)}
-
   `
     // Tab 2  
     let displayAvgQuarterTab2 = (quarter,jobChangeCount,jobChangeGender,newHireCount,newHireGender)=>{
@@ -1005,7 +1003,6 @@ console.log(asepdata2020Q2)
         'pcharts': [pwChart, pavgChart],
         'svgName': '#Chart3',
         'data': {
-            data21q3: [workData2021Q3, workDatg2021Q3, averageData2021Q3, averageDatg2021Q3],
             data21q2: [workData2021Q2, workDatg2021Q2, averageData2021Q2, averageDatg2021Q2],
             data21q1: [workData2021Q1, workDatg2021Q1, averageData2021Q1, averageDatg2021Q1],
             data20q4: [workData2020Q4, workDatg2020Q4, averageData2020Q4, averageDatg2020Q4],
@@ -1036,7 +1033,6 @@ console.log(asepdata2020Q2)
         'pcharts': [pnewHireChart, pjc],
         'svgName': '#Chart4',
         'data': {
-            data21q3: [newHireDatc2021Q3, newHireDatg2021Q3, jobDatc2021Q3, jobDatg2021Q3],
             data21q2: [newHireDatc2021Q2, newHireDatg2021Q2, jobDatc2021Q2, jobDatg2021Q2],
             data21q1: [newHireDatc2021Q1, newHireDatg2021Q1, jobDatc2021Q1, jobDatg2021Q1],
             data20q4: [newHireDatc2020Q4, newHireDatg2020Q4, jobDatc2020Q4, jobDatg2020Q4],
@@ -1096,7 +1092,6 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart8],
         'svgName': '#Chart6',
         'data': {
-            data21q3: [iwdata2021Q3, avgdata2021Q3, netdata2021Q3, turndata2021Q3, hiredata2021Q3],
             data21q2: [iwdata2021Q2, avgdata2021Q2, netdata2021Q2, turndata2021Q2, hiredata2021Q2],
             data21q1: [iwdata2021Q1, avgdata2021Q1, netdata2021Q1, turndata2021Q1, hiredata2021Q1],
             data20q4: [iwdata2020Q4, avgdata2020Q4, netdata2020Q4, turndata2020Q4, hiredata2020Q4],
@@ -1127,7 +1122,6 @@ console.log(asepdata2020Q2)
         'pcharts': [pchart61],
         'svgName': '#Chart17',
         'data': {
-            data21q3: [isepdata2021Q3, asepdata2021Q3, gsepdata2021Q3, esepdata2021Q3],
             data21q2: [isepdata2021Q2, asepdata2021Q2, gsepdata2021Q2, esepdata2021Q2],
             data21q1: [isepdata2021Q1, asepdata2021Q1, gsepdata2021Q1, esepdata2021Q1],
             data20q4: [isepdata2020Q4, asepdata2020Q4, gsepdata2020Q4, esepdata2020Q4],
