@@ -4346,7 +4346,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less tha
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.108
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.084
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q4,E1,Less than High school,0.094
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q4,E1,Less than High school,0.123
@@ -4374,7 +4373,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High sc
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.085
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.09
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.072
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.079
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.079
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.075
@@ -4400,7 +4398,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some col
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.074
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.079
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.075
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.069
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.086
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.07
@@ -4430,7 +4427,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's degree or advanced degree,0.069
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.076
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q4,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.059
@@ -4511,7 +4507,7 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.098
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0.084
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.097
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.093
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.1
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.081
@@ -4541,7 +4537,7 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.09
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.091
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2018Q3,2,Female,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2019Q3,2,Female,0.104
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.087
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.093
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q3,2,Female,0.083
@@ -5130,7 +5126,6 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educatio
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.215,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.213,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q3,E5,Educational attainment not available (workers aged 24 or younger),0.184,
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,4658
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,4656
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,5003
@@ -5244,3 +5239,8 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transp
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,TBD
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,TBD
 
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD,

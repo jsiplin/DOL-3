@@ -4345,7 +4345,6 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q2,E1,Less than
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.114
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.113
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.111
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.094
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.098
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less than High school,0.101
@@ -4374,7 +4373,6 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q3,E2,"High sch
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.085
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.086
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.076
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.08
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.078
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.072
@@ -4401,7 +4399,6 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some coll
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.081
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.081
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.081
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.074
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.07
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.078
@@ -4430,7 +4427,6 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor'
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.067
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.07
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.06
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2017Q4,E4,Bachelor's degree or advanced degree,0.067
@@ -4514,7 +4510,7 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.108
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.108
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.104
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.095
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2016Q4,1,Male,0.095
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2015Q4,1,Male,0.089
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.098
@@ -4543,7 +4539,7 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2020Q3,2,Female,0.086
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2018Q3,2,Female,0.093
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2019Q3,2,Female,0.095
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.088
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.093
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.094
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Gender,2018Q4,2,Female,0.091
@@ -5132,7 +5128,6 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2019Q3,E5,Education
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2020Q3,E5,Educational attainment not available (workers aged 24 or younger),0.193,
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,3699
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,3599
-Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2017Q1,A00,All Ages,3930
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,4067
 Earnings,Susquehanna WIA,Maryland Average Monthly Earnings by Age All,2019Q1,A00,All Ages,4190
@@ -5244,3 +5239,8 @@ Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Transpo
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,TBD
 Turnover,Susquehanna WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,TBD
 
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,TBD
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",TBD
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,TBD
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Susquehanna WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD,

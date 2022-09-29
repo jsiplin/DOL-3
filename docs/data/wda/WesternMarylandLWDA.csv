@@ -4343,7 +4343,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q2,E1,Less
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less than High school,0.083
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.101
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.098
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q3,E1,Less than High school,0.088
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.098
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.096
@@ -4375,7 +4374,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E2,"Hig
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.075
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q3,E2,"High school or equivalent, no college",0.07
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q4,E2,"High school or equivalent, no college",0.065
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q4,E2,"High school or equivalent, no college",0.063
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.064
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q4,E2,"High school or equivalent, no college",0.063
@@ -4400,7 +4398,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.07
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.07
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.069
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q3,E3,Some college or Associate degree,0.069
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.074
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q4,E3,Some college or Associate degree,0.062
@@ -4429,7 +4426,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bach
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E4,Bachelor's degree or advanced degree,0.067
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2015Q4,E4,Bachelor's degree or advanced degree,0.056
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2016Q4,E4,Bachelor's degree or advanced degree,0.058
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q3,E4,Bachelor's degree or advanced degree,0.067
@@ -4514,7 +4510,7 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2019Q3,1,Male,0.094
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.093
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2020Q3,1,Male,0.086
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,0
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q3,1,Male,TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2015Q4,1,Male,0.078
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q4,1,Male,0.081
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2016Q4,1,Male,0.078
@@ -4541,7 +4537,7 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.081
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2018Q3,2,Female,0.083
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2019Q3,2,Female,0.087
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,0
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2021Q3,2,Female,TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2016Q4,2,Female,0.082
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.079
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.079
@@ -5130,7 +5126,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educ
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.205,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),0.205,
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2020Q3,E5,Educational attainment not available (workers aged 24 or younger),0.195,
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),0,
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,3260
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q1,A00,All Ages,3459
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,3278
@@ -5244,3 +5239,8 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q3,48-49,Tr
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q3,22,Utilities,TBD
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q3,42,Wholesale Trade,TBD
 
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E1,Less than High school,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E2,"High school or equivalent, no college",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E3,Some college or Associate degree,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E4,Bachelor's degree or advanced degree,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Education,2021Q3,E5,Educational attainment not available (workers aged 24 or younger),TBD,
